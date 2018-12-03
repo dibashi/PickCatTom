@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "54fab961-8665-410b-8410-2935a8f38c59",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ANGELA-idle_3_lollipop_3": {
+      "ver": "1.0.3",
+      "uuid": "a4d4df3a-712c-4743-b1ec-bfded71c0986",
+      "rawTextureUuid": "54fab961-8665-410b-8410-2935a8f38c59",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 139,
+      "height": 200,
+      "rawWidth": 139,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

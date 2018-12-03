@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "c12fbde2-2224-46dd-8994-8fc11e71626c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "store_dogBg": {
+      "ver": "1.0.3",
+      "uuid": "656e1c46-df22-464d-83e9-932c79138641",
+      "rawTextureUuid": "c12fbde2-2224-46dd-8994-8fc11e71626c",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 168,
+      "height": 68,
+      "rawWidth": 168,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

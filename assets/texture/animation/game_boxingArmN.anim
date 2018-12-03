@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "game_boxingArmN",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "box_arm_left": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -180
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -170
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -180
+            },
+            {
+              "frame": 1,
+              "value": -190
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -180
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "box_arm_right": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -180
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -190
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -180
+            },
+            {
+              "frame": 1,
+              "value": -170
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -180
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

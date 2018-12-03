@@ -1,0 +1,111 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "node_findAct",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 3,
+  "speed": 2,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "portal_dots": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.8,
+                "y": 1.8
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.8,
+                "y": 1.8
+              }
+            }
+          ]
+        }
+      },
+      "portal-lines-2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 180
+            },
+            {
+              "frame": 4,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "portal-lines-4": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 180
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 360
+            },
+            {
+              "frame": 4,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "portal-lines-5": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 180
+            },
+            {
+              "frame": 4,
+              "value": 360
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

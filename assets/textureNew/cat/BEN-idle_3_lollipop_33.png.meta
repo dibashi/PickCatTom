@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a37ee718-6bd8-4dd3-b137-53bed026d161",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BEN-idle_3_lollipop_33": {
+      "ver": "1.0.3",
+      "uuid": "31a15970-9210-4e9f-a93c-788d2bdbdfe9",
+      "rawTextureUuid": "a37ee718-6bd8-4dd3-b137-53bed026d161",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 200,
+      "rawWidth": 170,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

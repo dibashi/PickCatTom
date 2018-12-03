@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "918696bf-bd42-4710-83ec-d836f62a909e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BEN-walking_15": {
+      "ver": "1.0.3",
+      "uuid": "b8ee5672-ea1d-4657-a631-c0962a80cf9e",
+      "rawTextureUuid": "918696bf-bd42-4710-83ec-d836f62a909e",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 147,
+      "height": 200,
+      "rawWidth": 147,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

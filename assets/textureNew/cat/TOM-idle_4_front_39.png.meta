@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "0db6909b-b643-416c-a20a-cad1a2b0300a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TOM-idle_4_front_39": {
+      "ver": "1.0.3",
+      "uuid": "466c7d57-6b67-44f4-8a1e-8811cf26cc2f",
+      "rawTextureUuid": "0db6909b-b643-416c-a20a-cad1a2b0300a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 145,
+      "height": 200,
+      "rawWidth": 145,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

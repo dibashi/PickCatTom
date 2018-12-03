@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "44a31d2b-0551-4bbd-867e-ea892b501826",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ANGELA-idle_4_front_34": {
+      "ver": "1.0.3",
+      "uuid": "71598b50-76fc-4112-aeb0-b20aeea951b3",
+      "rawTextureUuid": "44a31d2b-0551-4bbd-867e-ea892b501826",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 130,
+      "height": 200,
+      "rawWidth": 130,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

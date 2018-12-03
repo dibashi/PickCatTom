@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "3072e21b-0481-4e2f-87f6-2cf4f596901c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "HANK-walking_6": {
+      "ver": "1.0.3",
+      "uuid": "08addbe4-6d97-470f-9112-5abe955290e4",
+      "rawTextureUuid": "3072e21b-0481-4e2f-87f6-2cf4f596901c",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 200,
+      "rawWidth": 141,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

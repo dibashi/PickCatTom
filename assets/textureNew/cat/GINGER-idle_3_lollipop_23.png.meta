@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "dced3937-7f5d-48d3-8135-7fcf64b320ca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GINGER-idle_3_lollipop_23": {
+      "ver": "1.0.3",
+      "uuid": "1f7c8fb8-d11b-425d-bc32-c3e0427d45e3",
+      "rawTextureUuid": "dced3937-7f5d-48d3-8135-7fcf64b320ca",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 179,
+      "height": 200,
+      "rawWidth": 179,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

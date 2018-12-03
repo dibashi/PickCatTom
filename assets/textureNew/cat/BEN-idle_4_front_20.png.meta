@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "22c52cdd-b16b-44b1-be86-d89888391ba2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BEN-idle_4_front_20": {
+      "ver": "1.0.3",
+      "uuid": "a1b5bbb2-8e7d-4deb-82be-463a1367162d",
+      "rawTextureUuid": "22c52cdd-b16b-44b1-be86-d89888391ba2",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 137,
+      "height": 200,
+      "rawWidth": 137,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

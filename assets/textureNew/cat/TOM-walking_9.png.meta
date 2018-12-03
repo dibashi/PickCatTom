@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "0cf195be-3861-4124-8e64-0b3d74038327",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TOM-walking_9": {
+      "ver": "1.0.3",
+      "uuid": "297d9f12-ad5d-4c89-a0d1-bf3f4287aed7",
+      "rawTextureUuid": "0cf195be-3861-4124-8e64-0b3d74038327",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 144,
+      "height": 200,
+      "rawWidth": 144,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

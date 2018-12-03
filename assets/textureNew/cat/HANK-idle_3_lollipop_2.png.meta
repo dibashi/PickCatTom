@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a99d978a-51e9-4c49-a316-fa38e601ea97",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "HANK-idle_3_lollipop_2": {
+      "ver": "1.0.3",
+      "uuid": "01e048e2-3250-477a-8468-2ffa3b328746",
+      "rawTextureUuid": "a99d978a-51e9-4c49-a316-fa38e601ea97",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 167,
+      "height": 200,
+      "rawWidth": 167,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

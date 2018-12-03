@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "734b7c7b-c088-4be3-acee-b45868b7f1ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GINGER-superpower_jumping_end_4": {
+      "ver": "1.0.3",
+      "uuid": "f61130ea-b9c4-4b5d-bd94-05a1f425f1e9",
+      "rawTextureUuid": "734b7c7b-c088-4be3-acee-b45868b7f1ad",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 70,
+      "height": 80,
+      "rawWidth": 70,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "648425f3-951a-40d9-a27e-dc6b94d144c6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sandbeach_bg": {
+      "ver": "1.0.3",
+      "uuid": "472f32bb-5692-4bca-9a28-0bac333d8285",
+      "rawTextureUuid": "648425f3-951a-40d9-a27e-dc6b94d144c6",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1342,
+      "height": 1280,
+      "rawWidth": 1342,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

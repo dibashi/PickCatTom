@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "16af1e86-9e2c-4d36-b312-e303513471e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TOM-idle_3_lollipop_6": {
+      "ver": "1.0.3",
+      "uuid": "d41d9e87-7b16-434c-88a9-3ebaaf9c36c8",
+      "rawTextureUuid": "16af1e86-9e2c-4d36-b312-e303513471e5",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 171,
+      "height": 200,
+      "rawWidth": 171,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

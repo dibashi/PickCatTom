@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "game_fishBoat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.5,
+  "sample": 2,
+  "speed": 2,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "fisher_boat_0": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 6
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -6
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "fisher_shadows_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 180
+            },
+            {
+              "frame": 4,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -162
+            },
+            {
+              "frame": 1,
+              "value": -152
+            },
+            {
+              "frame": 2,
+              "value": -162
+            },
+            {
+              "frame": 3,
+              "value": -172
+            },
+            {
+              "frame": 4,
+              "value": -162
+            }
+          ]
+        }
+      },
+      "fisher_shadows_2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -159
+            },
+            {
+              "frame": 1,
+              "value": -169
+            },
+            {
+              "frame": 2,
+              "value": -159
+            },
+            {
+              "frame": 3,
+              "value": -149
+            },
+            {
+              "frame": 4,
+              "value": -159
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 180
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "fisher_boat_0/fisher_boat_0": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "bc1a601f-5402-4ea8-9bd7-f44ace2e71a9"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "a524cea3-5cef-4979-bf32-39a1cd46e2e1"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "bc1a601f-5402-4ea8-9bd7-f44ace2e71a9"
+                }
+              },
+              {
+                "frame": 3,
+                "value": {
+                  "__uuid__": "a524cea3-5cef-4979-bf32-39a1cd46e2e1"
+                }
+              },
+              {
+                "frame": 4,
+                "value": {
+                  "__uuid__": "bc1a601f-5402-4ea8-9bd7-f44ace2e71a9"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "fish_bobber/spr_line": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 260
+            },
+            {
+              "frame": 1,
+              "value": 240
+            },
+            {
+              "frame": 2,
+              "value": 260
+            },
+            {
+              "frame": 3,
+              "value": 280
+            },
+            {
+              "frame": 4,
+              "value": 260
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 4
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -3.5
+            },
+            {
+              "frame": 4,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "game_boxingArmR",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "box_arm_left": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": -10
+            },
+            {
+              "frame": 0.6,
+              "value": -10
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "box_arm_right": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": -40
+            },
+            {
+              "frame": 0.6,
+              "value": -40
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

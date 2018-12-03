@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e9b46458-f825-4871-8ab9-b5dd04f72253",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ANGELA-superpower_jumping_loop_1": {
+      "ver": "1.0.3",
+      "uuid": "7922b3f2-5bd0-4a18-bc53-ea76550ccabf",
+      "rawTextureUuid": "e9b46458-f825-4871-8ab9-b5dd04f72253",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 77,
+      "rawWidth": 80,
+      "rawHeight": 77,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

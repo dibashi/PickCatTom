@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "153bc42a-99bb-4972-afc8-cf66b1337c09",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BEN-superpower_loop_12": {
+      "ver": "1.0.3",
+      "uuid": "3334eb20-875d-4a35-a351-2d7ecd074fb7",
+      "rawTextureUuid": "153bc42a-99bb-4972-afc8-cf66b1337c09",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 58,
+      "rawWidth": 80,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

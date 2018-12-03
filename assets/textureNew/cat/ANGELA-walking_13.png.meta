@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "90951e8f-1141-4929-8c9e-473467fc884f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ANGELA-walking_13": {
+      "ver": "1.0.3",
+      "uuid": "daa5fddf-b18c-4f80-aaca-39a4bb91bf07",
+      "rawTextureUuid": "90951e8f-1141-4929-8c9e-473467fc884f",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 141,
+      "height": 200,
+      "rawWidth": 141,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

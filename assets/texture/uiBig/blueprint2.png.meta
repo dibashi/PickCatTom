@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "5aacbf44-c80f-4066-9930-7d4db3941f17",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "blueprint2": {
+      "ver": "1.0.3",
+      "uuid": "3ec57230-693f-426a-9720-d264aa5eaa93",
+      "rawTextureUuid": "5aacbf44-c80f-4066-9930-7d4db3941f17",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 284,
+      "rawWidth": 512,
+      "rawHeight": 284,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

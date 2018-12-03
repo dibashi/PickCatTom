@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_point",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 2,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a8d6078a-f380-441a-8090-bac0bd901320"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "cbc55196-50ae-4174-9dae-f589eb72a74d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
