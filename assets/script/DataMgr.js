@@ -4,7 +4,7 @@ const {
 } = cc._decorator;
 @ccclass
 export default class DataMgr extends cc.Component {
-    version = "20181121"; //不同的 version 版本会清空本地信息
+    version = "20181205"; //不同的 version 版本会清空本地信息
     beginTime = 1540537483; //最早是游戏发布的时间
     canvasH = 1280;
     canvasW = 720;
