@@ -285,7 +285,7 @@ export default class NodeLead extends cc.Component {
         } else if (cc.dataMgr.userData.leadStep == 28) {
             //换一个相册
             this.node_card.getChildByName("sprite3").active = true;
-            this.showTalk("这本相册太空可。我要记录一下我们的全部冒险。");
+            this.showTalk("这本相册太空了。我要记录一下我们的全部冒险。");
         } else if (cc.dataMgr.userData.leadStep == 29) {
             //点任意出现 top_btn
             this.node_top.active = true;
